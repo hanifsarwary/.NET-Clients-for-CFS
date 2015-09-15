@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using System.Web;
 using System.Web.Mvc;
 
 namespace MVC_Owin_WsFederation.Controllers
@@ -13,17 +10,17 @@ namespace MVC_Owin_WsFederation.Controllers
             return View();
         }
 
-        public ActionResult About()
+        [Authorize]
+        public ActionResult Claims()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Claims";
 
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult SignOut()
         {
-            ViewBag.Message = "Your contact page.";
-
+            Request.GetOwinContext().Authentication.SignOut();
             return View();
         }
     }
