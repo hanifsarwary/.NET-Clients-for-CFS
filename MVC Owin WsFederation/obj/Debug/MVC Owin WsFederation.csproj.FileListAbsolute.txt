@@ -14,21 +14,14 @@ E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\MVC Owin WsFederation.d
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\MVC Owin WsFederation.dll
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\MVC Owin WsFederation.pdb
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Antlr3.Runtime.dll
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\EntityFramework.dll
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\EntityFramework.SqlServer.dll
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.AspNet.Identity.Core.dll
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.AspNet.Identity.Owin.dll
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.dll
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Host.SystemWeb.dll
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.Cookies.dll
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.dll
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.Facebook.dll
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.Google.dll
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.OAuth.dll
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.Twitter.dll
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Web.Infrastructure.dll
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Newtonsoft.Json.dll
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Owin.dll
@@ -50,20 +43,19 @@ E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\System.Web.WebPages.Dep
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\System.Web.WebPages.Razor.xml
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Antlr3.Runtime.pdb
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Newtonsoft.Json.xml
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\EntityFramework.xml
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\EntityFramework.SqlServer.xml
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.AspNet.Identity.Core.xml
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.AspNet.Identity.Owin.xml
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.xml
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Host.SystemWeb.xml
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.xml
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.Facebook.xml
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.Cookies.xml
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.OAuth.xml
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.Google.xml
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.Twitter.xml
-E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\obj\Debug\MVC Owin WsFederation.csprojResolveAssemblyReference.cache
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\obj\Debug\MVC Owin WsFederation.dll
 E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\obj\Debug\MVC Owin WsFederation.pdb
+E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.WsFederation.dll
+E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\Microsoft.Owin.Security.WsFederation.xml
+E:\github\.NET-Clients-for-CFS\MVC Owin WsFederation\bin\System.IdentityModel.Tokens.Jwt.xml
