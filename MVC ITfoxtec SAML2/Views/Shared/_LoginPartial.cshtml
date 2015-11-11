@@ -1,0 +1,12 @@
+﻿@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOut", "Home", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+    <ul class="nav navbar-nav navbar-right">
+        <li>
+            @Html.ActionLink("Hello " + User.Identity.Name + "!", "Claims", "Home", routeValues: null, htmlAttributes: new { returnUrl = "Claims" })
+        </li>
+        <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+    </ul>
+    }
+}
