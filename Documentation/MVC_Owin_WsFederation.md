@@ -36,7 +36,7 @@ Then, run the application and click on the **Claims** link at the top of the scr
 
 You should be redirected to CFS. Do your authentication (if you are not already authenticated) and you will be redirected back to the application.
 
-![Authentication](MVC_Owin_WsFederation_8.png)
+![Authentication](CFS_Login_Page.png)
 
 You will see the list of claims contained in the WS-Federation token.
 
