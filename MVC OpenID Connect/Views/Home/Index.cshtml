@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home Page</title>
+</head>
+<body>
+    <div>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <text>Welcome, @User.Identity.Name <br /><a href="@Url.Action("Logout", "Login")">Logout</a></text>
+        }
+        else
+        {
+            <a href="@Url.Action("Index", "Login")">Login</a>
+        }
+    </div>
+</body>
+</html>
