@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC Owin WsFederation", "MVC Owin WsFederation\MVC Owin WsFederation.csproj", "{73FCED96-DFC7-41EA-8A9F-8EF5292017F6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC ITfoxtec SAML2", "MVC ITfoxtec SAML2\MVC ITfoxtec SAML2.csproj", "{C829C583-E7B0-40A5-B4BB-7C7A6733F7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC OpenID Connect", "MVC OpenID Connect\MVC OpenID Connect.csproj", "{3D5F7A31-A43F-4F35-8CF9-515993B0A089}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C829C583-E7B0-40A5-B4BB-7C7A6733F7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C829C583-E7B0-40A5-B4BB-7C7A6733F7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C829C583-E7B0-40A5-B4BB-7C7A6733F7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D5F7A31-A43F-4F35-8CF9-515993B0A089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5F7A31-A43F-4F35-8CF9-515993B0A089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5F7A31-A43F-4F35-8CF9-515993B0A089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5F7A31-A43F-4F35-8CF9-515993B0A089}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
